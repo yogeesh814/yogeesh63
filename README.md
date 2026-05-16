@@ -84,7 +84,8 @@ St.Philomena's College, Mysore, Karnataka *(Sep 2022 – Jun 2025)*
 *Expected Completion: May 2025*  
 
 **Pre-University Course (PUC) — PCMB**
-SVP PU College, Tiptur, Karnataka *(Completed: 2022)*  
+
+-SVP PU College, Tiptur, Karnataka *(Completed: 2022)*  
 - Studied **Physics, Chemistry, Mathematics, Biology (PCMB)**.  
 - Developed strong **analytical thinking, problem-solving, and logical reasoning skills**.  
 
