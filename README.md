@@ -118,11 +118,9 @@ SVP PU College, Tiptur, Karnataka *(Completed: 2022)*
 - **Language:** None
 - **Stars:** 1 | **Forks:** 0
 
-### [yogeesh814](### [yogeesh814]https://github.com/yogeesh814/Anime.git
+### [yogeesh814](https://github.com/yogeesh814/Anime.git/
 - **Description:** Config files for my GitHub profile.
 - **Language:** None
 - **Stars:** 1 | **Forks:** 0)
-- **Description:** Config files for my GitHub profile.
-- **Language:** None
-- **Stars:** 1 | **Forks:** 0
+
 
